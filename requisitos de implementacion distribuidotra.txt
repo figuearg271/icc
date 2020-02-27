@@ -1,0 +1,6 @@
+ingresan los pedidos en cotizacion
+
+si el limite de credito lo deja pasar ingresara el pedido en directo en el modulo si no enviarlo a cotizacion
+
+tratamientos de descuentos queda pendiente de como se va procesar
+
